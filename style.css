@@ -1,0 +1,15 @@
+a {
+  font: 25px monospace;
+  text-decoration: none;
+  margin-left: 35px;
+}
+
+a:hover {
+  color: #ffff00;
+}
+
+span {
+  visibility: hidden;
+  display: inline-block;
+  width: 0;
+}
