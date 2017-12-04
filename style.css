@@ -1,5 +1,6 @@
 html {
   cursor: url(assets/default.png), default;
+  min-height: 100vh;
 }
 
 a {
