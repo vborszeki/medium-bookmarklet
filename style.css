@@ -1,11 +1,17 @@
+html {
+  cursor: url(assets/default.png), default;
+}
+
 a {
-  font: 37px monospace;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 37px;
   text-decoration: none;
   margin-left: 35px;
 }
 
 a:hover {
   color: #ffff00;
+  cursor: url(assets/pointer.png), pointer;
 }
 
 span {
