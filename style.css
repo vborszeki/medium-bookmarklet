@@ -1,5 +1,4 @@
 html {
-  cursor: url(assets/default.png), default;
   min-height: 100vh;
 }
 
@@ -11,8 +10,7 @@ a {
 }
 
 a:hover {
-  color: #ffff00;
-  cursor: url(assets/pointer.png), pointer;
+  color: #f0f;
 }
 
 span {
